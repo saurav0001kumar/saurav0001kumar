@@ -1,6 +1,13 @@
 ### Hello! Welcome to my GitHub ✨
 I am Saurav Kumar, currently pursuing B.Tech in Computer Science & Engineering (CSE) from Netaji Subhash Engineering College.
 - 🌱 I’m currently learning app development using Flutter.  
+### 🏆 SKILLs
+- Programming Languages : C, Python, Java  
+- App Development : Flutter & Java  
+- DataBase Management System : MySQL  
+- Web Development : Django  & Basic HTML 
+- Others : MS Word, MS Excel, MS PowerPoint
+
 
 #### Follow Me on LinkedIn 😎 👍
   <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30></a>
