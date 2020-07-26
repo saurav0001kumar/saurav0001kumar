@@ -1,6 +1,10 @@
 ### Hello! Welcome to my GitHub ✨
 I am Saurav Kumar, currently pursuing B.Tech in Computer Science & Engineering (CSE) from Netaji Subhash Engineering College.
-- 🌱 I’m currently learning app development using Flutter.
+- 🌱 I’m currently learning app development using Flutter.  
+
+#### Follow Me on LinkedIn 😎 👍
+  <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30></a>
+
 <!--
 **saurav0001kumar/saurav0001kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
