@@ -8,9 +8,9 @@ I am Saurav Kumar, currently pursuing B.Tech in Computer Science & Engineering (
 - Web Development : Django  & Basic HTML 
 - Others : MS Word, MS Excel, MS PowerPoint    
 
-#### Follow Me on LinkedIn 😎 👍   
-  <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30></a>
-
+#### Follow Me 😎 👍   
+  <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30> </a>
+  <a href="https://github.com/saurav0001kumar"> &nbsp;<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=33></a>
 <!--
 **saurav0001kumar/saurav0001kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
