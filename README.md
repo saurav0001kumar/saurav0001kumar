@@ -1,9 +1,9 @@
 ### Hello, I'm [Saurav Kumar !](https://saurav0001kumar.ml) ✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p>
 Welcome to my GitHub.  
-I am currently pursuing B.Tech in Computer Science & Engineering (CSE) from Netaji Subhash Engineering College.  
+I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.  
 
-- 🌱 I’m currently learning app development using Flutter.
+- 🌱 I’m currently learning/working on app development using Flutter.
 
 ### 🏆 SKILLs 
 - Programming Languages : C, Python, Java  
