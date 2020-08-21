@@ -1,16 +1,18 @@
 ### Hello, I'm [Saurav Kumar !](https://saurav0001kumar.ml) ✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p>
+<p>
 Welcome to my GitHub.  
-I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.  
+I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.   
+</p>
 
 - 🌱 I’m currently learning/working on app development using Flutter.
 
 ### 🏆 SKILLs 
-- Programming Languages : C, Python, Java  
-- App Development : Flutter (Dart) & Java  
-- DataBase Management System : MySQL  
-- Web Development : Django  & Basic HTML 
-- Others : MS Word, MS Excel, MS PowerPoint   
+- <i>Programming Languages </i>: C, Python, Java  
+- <i>App Development </i>: Flutter (Dart) & Java  
+- <i>DataBase Management System </i>: MySQL  
+- <i>Web Development </i>: Django  & Basic HTML 
+- <i>Others </i>: MS Word, MS Excel, MS PowerPoint   
 
 <a href="https://github.com/saurav0001kumar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav0001kumar&show_icons=true&theme=light&line_height=27" alt="Saurav's GitHub Stats"/>
