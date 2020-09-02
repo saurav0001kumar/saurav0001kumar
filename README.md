@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p>
 <p>
 Welcome to my GitHub.  
-I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.   
+I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.    
 </p>
 
 - 🌱 I’m currently learning/working on app development using Flutter. 
