@@ -23,7 +23,7 @@ I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Sub
 </a>
 
  
-#### Follow Me 😎 👍   
+#### Follow Me 😎 👍     
   <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30> </a>
   <a href="https://github.com/saurav0001kumar"> &nbsp;<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=33></a>
 <!--
