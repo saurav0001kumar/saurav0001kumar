@@ -9,7 +9,7 @@ I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Sub
 
 ### 🏆 SKILLs 
 - <i>Programming Languages </i>: C, Python, Java  
-- <i>App Development </i>: Flutter (Dart) & Java   
+- <i>App Development </i>: Flutter (Dart) & Java    
 - <i>DataBase Management System </i>: MySQL  
 - <i>Web Development </i>: Django  & Basic HTML 
 - <i>Others </i>: MS Word, MS Excel, MS PowerPoint   
