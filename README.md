@@ -1,6 +1,6 @@
 ### Hello, I'm [Saurav Kumar !](https://saurav0001kumar.ml) ✨ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p> 
-<p>
+<p> 
 Welcome to my GitHub.  
 I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.    
 </p>
