@@ -12,7 +12,7 @@ I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Sub
 - <i>App Development </i>: Flutter (Dart) & Java    
 - <i>DataBase Management System </i>: MySQL  
 - <i>Web Development </i>: Django  & Basic HTML 
-- <i>Others </i>: MS Word, MS Excel, MS PowerPoint   
+- <i>Others </i>: MS Word, MS Excel, MS PowerPoint, Bash Shell   
 
 <a href="https://github.com/saurav0001kumar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav0001kumar&show_icons=true&theme=light&line_height=27" alt="Saurav's GitHub Stats"/>
