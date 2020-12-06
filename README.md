@@ -5,7 +5,9 @@ Welcome to my GitHub.
 I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.    
 </p> 
 
-- 🌱 I’m currently learning/working on app development using Flutter.   
+- ❄️ Mentor at Winter of Code (WOC) 2020
+- 🔭 Core Team & App Team Member at DSC NSEC
+- 🌱 I’m currently working on & learning app development using Flutter.   
 
 ### 🏆 SKILLs 
 - <i>Programming Languages </i>: C, Python, Java  
