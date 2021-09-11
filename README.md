@@ -4,10 +4,9 @@
 Welcome to my GitHub.  
 I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.    
 </p> 
-  
-- 📚 EPAM PEP 2020-21 Trainee at EPAM Systems  
+    
 - ❄️ Former Mentor at Winter of Code (WoC) 2020
-- 🔭 Former Core Team & App Team Member at DSC NSEC
+- 🔭 Former Core Team & App Team Member at DSC NSEC (2020-2021)
 - 🌱 I’m currently working on & learning app development using Flutter.   
 
 ### 🏆 SKILLs 
