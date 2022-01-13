@@ -24,7 +24,7 @@ I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Sub
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🏆 SKILLs 
-- <i>Programming Languages </i>: C, Python, Java  
+- <i>Programming Languages </i>: Java, python
 - <i>App Development </i>: Flutter (Dart) & Java    
 - <i>DataBase Management System </i>: MySQL  
 - <i>Web Development </i>: Django  & Basic HTML 
