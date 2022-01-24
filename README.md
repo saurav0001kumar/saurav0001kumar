@@ -5,10 +5,10 @@ Welcome to my GitHub.
 I am currently pursuing B.Tech in Computer Science & Engineering from Netaji Subhash Engineering College.    
 </p> 
  
-- 🏅 SWE Intern at Persistent Systems
+- 🔭 SWE Intern at Persistent Systems
 - 🏅 Former PEP-2021 Trainee at EPAM Systems
 - ❄️ Former Mentor at Winter of Code (WoC) 2020
-- 🔭 Former Core Team & App Team Member at DSC NSEC (2020-2021)
+- 👯 Former Core Team & App Team Member at DSC NSEC (2020-2021)
 - 🌱 I’m currently working on & learning app development using Flutter and Advanced Java.  
 
 ### Tools
