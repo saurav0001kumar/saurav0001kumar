@@ -5,7 +5,7 @@ Welcome to my GitHub.
 I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.    
 </p> 
  
-- 🔭 SWE Intern at Persistent Systems
+- 🌟 SWE Intern at Persistent Systems
 - 🏅 Former PEP-2021 Trainee at EPAM Systems
 - ❄️ Former Mentor at Winter of Code (WoC) 2020
 - 👯 Former Core Team & App Team Member at DSC NSEC (2020-2021)
@@ -39,11 +39,22 @@ I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.
 ![Saurav's github trophy](https://github-profile-trophy.vercel.app/?username=saurav0001kumar&row=1)
 <a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav0001kumar&" alt="" /></a>
 
+#### Connect with me: 
+<a href="https://github.com/saurav0001kumar/saurav0001kumar.github.io"><img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/saurav0001kumar/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
- 
-#### Follow Me 😎 👍     
-  <a href="https://www.linkedin.com/in/saurav0001kumar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30> </a>
-  <a href="https://github.com/saurav0001kumar"> &nbsp;<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=33></a>
+
+<!-- COMMENTED TEXT -- starts from here ->
+
+Social Links:
+<a href="https://facebook.com"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" /></a>
+<a href="https://twitter.com"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://instagram.com"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+<p align="center">
+ <a href="https://github.com/saurav0001kumar"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=50></a>
+</p> -->
+
 <!--
 **saurav0001kumar/saurav0001kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
