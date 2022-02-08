@@ -29,24 +29,18 @@ I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-   <a href="https://github.com/saurav0001kumar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav0001kumar&show_icons=true&theme=light&line_height=27" alt="Saurav's GitHub Stats"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0001kumar&layout=compact)
+
 <a href="https://github.com/saurav0001kumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0001kumar&theme=light&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav0001kumar&show_icons=true&theme=light&line_height=27" alt="Saurav's GitHub Stats"/>
 </a>
 
-#### Connect with me: 
-<a href="https://saurav0001kumar.github.io/"><img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/saurav0001kumar/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+#### 💬 Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav0001kumar/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/saurav0001kumar)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurav0001kumar)
 
-
-<!-- COMMENTED TEXT -- starts from here ->
-
-Social Links:
-<a href="https://facebook.com"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" /></a>
-<a href="https://twitter.com"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://instagram.com"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+[<img src="https://omranic.com/wp-content/uploads/2017/09/google-developers.png" width=190>](https://g.dev/saurav0001kumar)
 
 <!--
 **saurav0001kumar/saurav0001kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
