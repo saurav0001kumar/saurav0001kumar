@@ -1,4 +1,4 @@
-### Hello, I'm [Saurav Kumar !](https://saurav0001kumar.ml) ✨ 
+### Hello, I'm Saurav Kumar ✨ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p> 
 <p> 
 Welcome to my GitHub.  
@@ -36,11 +36,8 @@ I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0001kumar&theme=light&hide_langs_below=1" />
 </a>
 
-![Saurav's github trophy](https://github-profile-trophy.vercel.app/?username=saurav0001kumar&row=1)
-<a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav0001kumar&" alt="" /></a>
-
 #### Connect with me: 
-<a href="https://github.com/saurav0001kumar/saurav0001kumar.github.io"><img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://saurav0001kumar.github.io/"><img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/saurav0001kumar/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
@@ -50,10 +47,6 @@ Social Links:
 <a href="https://facebook.com"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" /></a>
 <a href="https://twitter.com"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://instagram.com"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-<p align="center">
- <a href="https://github.com/saurav0001kumar"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=50></a>
-</p> -->
 
 <!--
 **saurav0001kumar/saurav0001kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
