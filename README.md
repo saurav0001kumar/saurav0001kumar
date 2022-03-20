@@ -9,7 +9,7 @@ I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.
 - 🏅 Former PEP-2021 Trainee at EPAM Systems
 - ❄️ Former Mentor at Winter of Code (WoC) 2020
 - 👯 Former Core Team & App Team Member at DSC NSEC (2020-2021)
-- 🌱 I’m currently working on & learning app development using Flutter and Advanced Java.  
+- 🌱 I’m currently working on & learning Spring/Spring-Boot.
 
 ### 🏆 SKILLs & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
