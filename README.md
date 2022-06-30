@@ -1,11 +1,12 @@
 ### Hello, I'm Saurav Kumar ✨ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0001kumar&label=Views&color=blue&style=plastic" alt="saurav0001kumar" /> </p> 
+B.Tech in Computer Science & Engineering from NSEC. 
 <p> 
-Welcome to my GitHub.  
-I am currently pursuing B.Tech in Computer Science & Engineering from NSEC.    
-</p> 
- 
-- 🌟 SWE Intern at Persistent Systems
+Welcome to my GitHub.     
+</p>
+
+- 🌟 Software Engineer at Persistent Systems
+- 🌟 Former Intern at Persistent Systems
 - 🏅 Former PEP-2021 Trainee at EPAM Systems
 - ❄️ Former Mentor at Winter of Code (WoC) 2020
 - 👯 Former Core Team & App Team Member at DSC NSEC (2020-2021)
